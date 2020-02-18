@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'rest_auth',
     'rest_auth.registration',
+    'drf_yasg',
     'posts.apps.PostsConfig'
 ]
 
